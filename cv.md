@@ -1,4 +1,5 @@
 **Trunin Alexander**  
+----------------------
 
 **Contacts**  
 Phone: +7(905)390-49-40  
@@ -16,3 +17,14 @@ GitHub: https://github.com/lubomir1976
 + GIT
 + JAVASCRIPT  
 
+**Examples**  
+
+None
+
+**Education**  
+
+*University of Architecture and Civil Engineering 1993 - 1998. Specialization - Civil Engineer*
+
+**Language**  
++ Russian - Native
++ English - Beginning
