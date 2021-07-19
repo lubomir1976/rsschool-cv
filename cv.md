@@ -17,7 +17,7 @@ GitHub: https://github.com/lubomir1976
 + GIT
 + JAVASCRIPT  
 + Postgresql
-+ Python
+
 
 **Examples**  
 
