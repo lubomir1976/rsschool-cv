@@ -30,4 +30,4 @@ None
 **Language**  
 + Russian - Native
 + English - Beginning
-+ Deutsch - Beginning
+
