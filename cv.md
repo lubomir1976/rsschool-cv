@@ -16,6 +16,8 @@ GitHub: https://github.com/lubomir1976
 + CSS  
 + GIT
 + JAVASCRIPT  
++ Postgresql
++ Python
 
 **Examples**  
 
