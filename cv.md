@@ -25,4 +25,12 @@ GitHub: https://github.com/lubomir1976
 
 None
 
+**Education**
+
+*University of Architecture and Civil Engineering 1993 - 1998. Specialization - Civil Engineer*
+
+**Language**
++ Russian - Native
++ English - intermediate
+
 
