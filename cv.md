@@ -10,3 +10,19 @@ GitHub: https://github.com/lubomir1976
 
 *My goal at the moment is to master this profession and in the future to become a technical lead or team lead*
 
+**Skills**
+
++ HTML
++ CSS
++ GIT
++ JAVASCRIPT
++ Postgresql
++ Python
++ PHP
+
+
+**Examples**
+
+None
+
+
