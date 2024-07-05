@@ -1,4 +1,3 @@
-rsschool-cv-html
 **Trunin Alexander**
 ----------------------
 
@@ -36,4 +35,4 @@ None
 
 
 
-gh-pages
+
