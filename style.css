@@ -1,3 +1,4 @@
+rsschool-cv-html
 * {
 	margin: 0;
 	padding: 0;
@@ -18,16 +19,56 @@
 	font-size: 1.25em;
  }
 
- body {
-	background-color: #d5d2d0;
- }
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0;
+	padding: 0;
+	min-height: 100vh;
+	overflow: auto;
+	display: flex;
+	flex-direction: column;
+}
 
- .container {
-	width: 1200px;
-	margin-top: 30px;
-	margin-left: auto;
-	margin-right: auto;
- }
+.header {
+	background-color: #857e7e;
+}
+
+.container {
+	box-sizing: border-box;
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: 0 30px;
+}
+
+.nav-list {
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	max-width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	list-style: none;
+	margin: 0 auto;
+}
+
+.nav-item {
+	margin-right: 15px;
+}
+
+.nav-item a {
+	text-decoration: none;
+	color: black;
+	font-family: Lato;
+	text-transform: uppercase;
+	transition: all 0.5s ease;
+	font-weight: 600;
+}
+
+.nav-item a:hover,
+.nav-item a:focus {
+	color: green;
+}
 
  .main-block {
 	display: flex;
@@ -107,6 +148,10 @@
 	width: 80%;
  }
 
+.meter span.python {
+	width: 80%;
+}
+
  .main-content {
 	width: 67%;
 	color: #464646;
@@ -178,3 +223,4 @@
  .logo-rsschool img {
 	width: 140px;
  }
+gh-pages
