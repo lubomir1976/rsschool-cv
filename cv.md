@@ -23,7 +23,9 @@ GitHub: https://github.com/lubomir1976
 
 **Examples**
 
-None
+function add(a, b) {
+    return a + b   
+}
 
 **Education**
 
